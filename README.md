@@ -10,7 +10,7 @@
 4. Cyber Physical System (Robot ROS)
 โดยโค้ดนี้คือในส่วนของ Hardware Programming และ Cyber Physical System (Robot ROS)
 
-Presentation Slides : [Robotic-Arm-Model-Control-Glove.pdf](https://github.com/jameVee/Robotic-Arm-Model-Control-Glove/issues/2#issue-1717015312)
+Presentation Slides : https://www.canva.com/design/DAFQ90EDglY/Ayz8Fc6jhreTmJSbgoZUag/view?utm_content=DAFQ90EDglY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 ![Overview](https://github.com/jameVee/Robotic-Arm-Model-Control-Glove/assets/59200533/06fdf261-047d-4d46-bffe-728a649a02cc)
 
