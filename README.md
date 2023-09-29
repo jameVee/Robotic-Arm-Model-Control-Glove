@@ -11,7 +11,7 @@
    
 โดยโค้ดนี้คือในส่วนของ Hardware Programming และ Cyber Physical System (Robot ROS)
 
-Presentation Slides : [Robotic-Arm-Model-Control-Glove.pdf](https://www.canva.com/design/DAFQ90EDglY/Ayz8Fc6jhreTmJSbgoZUag/view?utm_content=DAFQ90EDglY&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+Presentation Slides : [Robotic-Arm-Model-Control-Glove.pdf](https://www.canva.com/design/DAFv2BcUDtc/h3rzKH3cELklWedslp3lXA/view?utm_content=DAFv2BcUDtc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 Phototype Example : [Robotic-Arm-Model-Control-Glove (Prototype) By Teardown](https://youtu.be/ATX789UZTtU)
 
